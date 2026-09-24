@@ -12,7 +12,7 @@ I'm looking for **Summer 2027 internships** in AI, ML, data science, and softwar
 
 ### Tools
 
-Python · PyTorch · scikit-learn · XGBoost · LightGBM · PySpark · SQL · FastAPI · Streamlit · Docker · Git
+Python · scikit-learn · XGBoost · LightGBM · Prophet · PySpark · SQL · Streamlit · Docker · Git
 
 ### Contact
 
