@@ -1,0 +1,19 @@
+## Hi, I'm Tejas
+
+I'm a master's student in Data Science at Arizona State University, graduating in Fall 2027. I build machine learning projects that go from raw data to something people can use, like a dashboard or a live camera system.
+
+I'm looking for **Summer 2027 internships** in AI, ML, data science, and software engineering.
+
+### Projects
+
+- **[Regime-Aware Factor Model](https://github.com/Tejas-1701/regime-factor-model)**: Detects bull, bear, and volatile markets with a Hidden Markov Model and switches strategy for each one. Tested on 22 years of S&P 500 data, it returned 18.5% a year against the index's 12.9%, with a Sharpe ratio of 1.10 against 0.90.
+- **[FluForecast](https://github.com/Tejas-1701/fluforecast)**: Forecasts flu activity several weeks ahead from CDC data, with uncertainty ranges. It combines SARIMA, LightGBM, and Prophet and runs as a Streamlit dashboard.
+- **Classroom Hand-Raise Detection**: Spots raised hands and recognizes faces live using a YOLO model on an OAK-D camera.
+
+### Tools
+
+Python · PyTorch · scikit-learn · XGBoost · LightGBM · PySpark · SQL · FastAPI · Streamlit · Docker · Git
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/tejas-s-90162b251/) · tejassundar011@gmail.com
